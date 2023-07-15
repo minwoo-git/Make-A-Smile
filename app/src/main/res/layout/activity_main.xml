@@ -7,7 +7,7 @@
     tools:context=".MainActivity">
 
     <ToggleButton
-        android:id="@+id/toggleButton"
+        android:id="@+id/Button"
         android:layout_width="133dp"
         android:layout_height="91dp"
         android:text="알림 기능 실행"
